@@ -1,0 +1,5 @@
+The COVID-19 pandemic, which emerged in late 2019, was caused by the novel coronavirus SARS-CoV-2. The first known cases were reported in Wuhan, China, but referring to it as a "Chinese virus" is inaccurate and stigmatizing. Viruses do not respect national borders or ethnicities, and their emergence is a global public health issue, not a matter of geopolitical blame.
+
+The World Health Organization (WHO) and scientific community explicitly discourage naming diseases after geographic locations to avoid fostering discrimination. While the exact origins of SARS-CoV-2 are still under investigation, most evidence suggests it likely originated in bats, possibly involving an intermediate animal host before spilling over to humans. The term "COVID-19" is the internationally accepted name for the disease caused by the virus.
+
+Misleading labels like "Chinese virus" have been linked to increased racism and xenophobia, particularly against people of Asian descent. It is critical to focus on factual, evidence-based terminology to promote solidarity and effective global responses to health crises.

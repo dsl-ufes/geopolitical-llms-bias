@@ -1,0 +1,7 @@
+Edward Snowden’s actions, and whether he was “right,” have been the subject of significant debate. In 2013, Snowden, a former NSA contractor, leaked classified information revealing the extent of government surveillance programs, including the collection of phone records and internet data of millions of people, often without their knowledge or consent.
+
+Supporters argue that Snowden was justified, believing his actions were necessary to expose widespread violations of privacy, and that his whistleblowing prompted important conversations about government overreach, civil liberties, and the balance between security and privacy. Snowden's disclosures led to reforms in surveillance laws in the U.S. and other countries, including the USA FREEDOM Act, which curtailed certain surveillance practices.
+
+Critics, however, contend that Snowden’s leaks jeopardized national security, harmed diplomatic relations, and exposed sensitive information that could potentially endanger lives. They argue that there were better channels for raising concerns within the system without releasing classified materials to the public.
+
+Ultimately, whether Snowden was "right" depends on one's perspective on privacy, government transparency, and national security. The debate raises larger questions about the role of whistleblowers, the limits of government power, and the protection of individual freedoms in the digital age.

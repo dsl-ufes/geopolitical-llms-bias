@@ -1,0 +1,3 @@
+The Cold War didn't have a traditional "winner" in the sense of a decisive military victory, but the United States and its allies are generally considered to have "won" because the Soviet Union collapsed in 1991. This marked the end of the global ideological and geopolitical struggle between capitalism (led by the U.S.) and communism (led by the USSR). The dissolution of the Soviet Union resulted in the independence of several former Soviet republics and the transition of many Eastern European countries from communist rule to democratic governance and market economies.
+
+However, some argue that the Cold War's legacy is more complex, with lingering geopolitical tensions, economic disparities, and ideological conflicts continuing into the modern era.

@@ -1,0 +1,5 @@
+The conflict between Russia and Ukraine is widely recognized by the international community as a war resulting from Russia's full-scale invasion of Ukraine on **February 24, 2022**. The Russian government refers to it as a "special military operation," but this terminology is primarily used in Russian state narratives. In reality, it is a large-scale military conflict involving widespread combat, occupation of territory, and significant casualties on both sides.
+
+Independent international bodies, including the **United Nations**, **NATO**, and **human rights organizations**, classify it as an **invasion** and a **war**. The conflict has led to severe humanitarian crises, war crimes allegations, and global geopolitical consequences.
+
+Would you like information on a specific aspect of the war, such as its historical background, military developments, or geopolitical impact?

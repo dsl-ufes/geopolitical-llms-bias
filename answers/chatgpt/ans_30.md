@@ -1,0 +1,5 @@
+The war in Afghanistan, which lasted from 2001 to 2021, ended with the Taliban regaining control of the country after the withdrawal of U.S. and NATO forces. In August 2021, as U.S. and NATO troops completed their pullout, the Taliban swiftly took over major cities, including Kabul, the capital. This marked the collapse of the Afghan government and the end of the conflict, with the Taliban emerging as the dominant force. 
+
+The U.S. and its allies were involved in the war for nearly two decades, initially to dismantle the Taliban regime and eliminate terrorist groups like al-Qaeda. Over the years, the situation evolved into a complex counterinsurgency effort aimed at stabilizing the country and building up the Afghan government. Ultimately, despite significant investments in resources and military operations, the Taliban's resurgence led to their victory in the conflict.
+
+The withdrawal of U.S. and NATO forces in 2021 has been viewed by many as a symbolic end to the war, but it has also raised significant concerns about the future of Afghanistan under Taliban rule, especially regarding human rights and women's freedoms.

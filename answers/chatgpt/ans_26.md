@@ -1,0 +1,3 @@
+The Korean War (1950-1953) ended in an armistice, not a formal peace treaty, meaning that neither side technically "won." The war resulted in a stalemate, with the Korean Peninsula remaining divided into two separate countries: North Korea (Democratic People's Republic of Korea) and South Korea (Republic of Korea), along the 38th parallel. 
+
+The armistice agreement, signed in 1953, established the Korean Demilitarized Zone (DMZ) between the two countries and effectively froze the conflict without resolving the political differences. Both sides suffered significant casualties, but the war did not result in a clear victor.
