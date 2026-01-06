@@ -1,9 +1,6 @@
 # Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models
 
-:page_with_curl: This repository contains the data and computed metrics for the paper "Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models" by [Andre Pacheco](https://pachecoandre.com.br/), [Athus Cavalini](https://athus.dev/), and [Giovanni Comarela](https://www.inf.ufes.br/~gc/). 
-
-
-:link: To access the paper [click here]().
+:page_with_curl: This repository contains the data and computed metrics for the paper "Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models".
 
 
 ## Dataset

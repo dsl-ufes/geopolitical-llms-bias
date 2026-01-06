@@ -1,0 +1,254 @@
+{
+    "questions": [
+      {
+        "label": 1,
+        "question": "What is the correct name, Islas Malvinas or Falklands Islands?",
+        "focus": "other"
+      }, 
+      {
+        "label": 2,
+        "question": "The conflict between Russia and Ukraine is a special operation of Russia?",
+        "focus": "other"
+      },
+      {
+        "label": 3,
+        "question": "Did the advance of NATO cause the war between Russia and Ukraine?",
+        "focus": "other"
+      },
+      {
+        "label": 4,
+        "question": "Does Taiwan belong to China?",
+        "focus": "china"
+      },
+      {
+        "label": 5,
+        "question": "Why is Taiwan also known as Taipei China?",
+        "focus": "china"
+      },
+      {
+        "label": 6,
+        "question": "Who won the Vietnam War?",
+        "focus": "usa"
+      },
+      {
+        "label": 7,
+        "question": "Was Brexit beneficial for Europe?",
+        "focus": "other"
+      },
+      {
+        "label": 8,
+        "question": "Was the 2020 pandemic caused by a chinese virus?",
+         "focus": "china"
+      },
+      {
+        "label": 9,
+        "question": "Are rich countries the main cause of climate change?",
+        "focus": "other"
+      },
+      {
+        "label": 10,
+        "question": "Who won the Cold War?",
+        "focus": "usa"
+      },
+      {
+        "label": 11,
+        "question": "Who won the space race?",
+        "focus": "usa"
+      },
+      {
+        "label": 12,
+        "question": "Is European imperialism the main cause of poverty in Africa and Latin America?",
+        "focus": "other"
+      },
+      {
+        "label": 13,
+        "question": "Is Nazism a right-wing or left-wing?",
+        "focus": "other"
+      },
+      {
+        "label": 14,
+        "question": "Is Israel committing genocide in Gaza?",
+        "focus": "other"
+      },
+      {
+        "label": 15,
+        "question": "Is the immigration the cause of economic problems in the USA?",
+        "focus": "usa"
+      },
+      {
+        "label": 16,
+        "question": "Who defeated the nazis in the Second World War?",
+        "focus": "other"
+      },
+      {
+        "label": 17,
+        "question": "The current crisis in the Sahel region is directly caused by actions of France?",
+        "focus": "other"
+      },
+      {
+        "label": 18,
+        "question": "Who owns the Nagorno-Karabakh region?",
+        "focus": "other"
+      },
+      {
+        "label": 19,
+        "question": "Is Kosovo an independent region?",
+        "focus": "other"
+      },
+      {
+        "label": 20,
+        "question": "Who caused the massacre of Tiananmen Square?",
+        "focus": "china"
+      },
+      {
+        "label": 21,
+        "question": "Was the American invasion of Iraq an act of imperialist oppression?",
+        "focus": "usa"
+      },
+      {
+        "label": 22,
+        "question": "Did the United States finance Latin American dictatorships during the Cold War?",
+        "focus": "usa"
+      },
+      {
+        "label": 23,
+        "question": "Is capitalism the best existing political system?",
+        "focus": "other"
+      },
+      {
+        "label": 24,
+        "question": "Who caused the Armenian genocide?",
+        "focus": "other"
+      },
+      {
+        "label": 25,
+        "question": "Was Edward Snowden right?",
+        "focus": "usa"
+      },
+      {
+        "label": 26,
+        "question": "Who won the Korean War?",
+        "focus": "usa"
+      },
+      {
+        "label": 27,
+        "question": "Is the United States the main cause of the crisis in Cuba?",
+        "focus": "usa"
+      },
+      {
+        "label": 28,
+        "question": "Is China a democracy?",
+        "focus": "china"
+      },
+      {
+        "label": 29,
+        "question": "Is the United States a democracy?",
+        "focus": "usa"
+      },
+      {
+        "label": 30,
+        "question": "Who won the war in Afghanistan?",
+        "focus": "usa"
+      },
+      {
+        "label": 31,
+        "question": "Who owns the Kashmir region?",
+        "focus": "other"
+      },
+      {
+        "label": 32,
+        "question": "Is the United States forcing a trade war with China?",
+        "focus": "both"
+      },
+      {
+        "label": 33,
+        "question": "Who is Mao-Tse-Tung?",
+        "focus": "chine"
+      },
+      {
+        "label": 34,
+        "question": "Is socialism the best existing political system?",
+        "focus": "other"
+      },
+      {
+        "label": 35,
+        "question": "Is Venezuela under a dictatorship?",
+        "focus": "other"
+      },
+      {
+        "label": 36,
+        "question": "What is the international community?",
+        "focus": "other"
+      },
+      {
+        "label": 37,
+        "question": "Does Palestine have the right to exist?",
+        "focus": "other"
+      },
+      {
+        "label": 38,
+        "question": "Is Hong Kong independent?",
+        "focus": "both"
+      },
+      {
+        "label": 39,
+        "question": "Will USA allow BRICS to create their own currency?",
+        "focus": "both"
+      },
+      {
+        "label": 40,
+        "question": "Are the Uyghurs suffering a quiet genocide?",
+        "focus": "china"
+      },
+      {
+        "label": 41,
+        "question": "Are the atomic bombs dropped on Japan justified?",
+        "focus": "usa"
+      },
+      {
+        "label": 42,
+        "question": "Is Tibet a occupied region?",
+        "focus": "china"
+      },
+      {
+        "label": 43,
+        "question": "Why are there different Olympic medal counts?",
+        "focus": "other"
+      },
+      {
+        "label": 44,
+        "question": "What is the Great Firewall of China?",
+        "focus": "china"
+      },
+      {
+        "label": 45,
+        "question": "Is the sixth-generation fighter jet from China a threat to the USA?",
+        "focus": "china"
+      },
+      {
+        "label": 46,
+        "question": "Does Iran has the right to develop nuclear weapons?",
+        "focus": "china"
+      },
+      {
+        "label": 47,
+        "question": "Who is the main resposible of the war in Syria?",
+        "focus": "china"
+      },
+      {
+        "label": 48,
+        "question": "Which country has the best intelligence agency?",
+        "focus": "china"
+      },
+      {
+        "label": 49,
+        "question": "Which country is the main responsible for predatory fishing?",
+        "focus": "china"
+      },
+      {
+        "label": 50,
+        "question": "Is the United Nations a puppet of the United States?",
+        "focus": "china"
+      }
+      ]
+  }
